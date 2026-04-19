@@ -28,7 +28,7 @@ This project focuses on **Predictive Maintenance** for industrial equipment usin
 
 ## 📷 Dashboard & Visuals
 ### Industrial Monitoring Dashboard
-![Predictive Maintenance Dashboard](../04_Screenshots/Predictive_Maintenance_Full_Dashboard.png)
+![Predictive Maintenance Dashboard](./04_Screenshots/Predictive_Maintenance_Full_Dashboard.png)
 
 ## 🔗 Live Interactive Dashboard
 [View on Tableau Public](https://public.tableau.com/views/Predictive_Maintenance_Full_Dashboard/PredictiveMaintenanceDashboardEnergySector?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
