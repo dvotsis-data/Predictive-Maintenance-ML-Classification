@@ -110,13 +110,17 @@ The results are presented as an exploratory classification analysis rather than 
 
 Two interactive Tableau dashboards were developed to communicate the results.
 
-**Sensor Risk Dashboard**
+### Sensor Risk Dashboard
 
 Presents sensor measurements during normal operation and recorded failures, together with Random Forest feature importance.
 
-**Model Evaluation and Threshold Analysis Dashboard**
+![Predictive Maintenance - Sensor Risk Dashboard](04_Screenshots/dashboard_sensor_risk.png)
+
+### Model Evaluation and Threshold Analysis Dashboard
 
 Presents the test-set confusion matrix, precision, recall, F1-score, and validation-based classification threshold comparison.
+
+![Predictive Maintenance - Model Evaluation Dashboard](04_Screenshots/dashboard_model_evaluation.png)
 
 **Tableau Public:** [View Interactive Dashboards](https://public.tableau.com/app/profile/dimitris.votsis/viz/Predictive_Maintenance_Full_Dashboard/PredictiveMaintenanceModelEvaluationThresholdAnalysis)
 
